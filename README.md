@@ -1,1 +1,1 @@
-# Flyrank-projects
+# Frontend-AI-Capstone
